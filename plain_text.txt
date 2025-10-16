@@ -1,6 +1,0 @@
-# plain_text.txt
-Some noisy log:
---- START ---
-apple    banana cat dog    eagle frog grape house ink
-jam kite lemon moon nest owl pen quilt rabbit
---- END ---
